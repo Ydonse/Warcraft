@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: e2389e2e0437a1b42aa7c0ae697c4d09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4421247391145857489
+    second: Orc Town_0
+  - first:
+      213: 847608058927423758
+    second: Orc Town_1
+  - first:
+      213: 6355700991482881282
+    second: Orc Town_2
+  - first:
+      213: 4914449338332698792
+    second: Orc Town_3
+  - first:
+      213: 8012199243582484074
+    second: Orc Town_4
+  - first:
+      213: -363911791259339345
+    second: Orc Town_5
+  - first:
+      213: 5969856073169869015
+    second: Orc Town_6
+  - first:
+      213: 3516409733324346295
+    second: Orc Town_7
+  - first:
+      213: 9205716990849979225
+    second: Orc Town_8
+  - first:
+      213: -9025305200346372381
+    second: Orc Town_9
+  - first:
+      213: 8077023773437932017
+    second: Orc Town_10
+  - first:
+      213: -7272340689602498803
+    second: Orc Town_11
+  - first:
+      213: -477983777535451510
+    second: Orc Town_12
+  - first:
+      213: -1720800608885251995
+    second: Orc Town_13
+  - first:
+      213: -8923748377688758119
+    second: Orc Town_14
+  - first:
+      213: 4458929120236201042
+    second: Orc Town_15
+  - first:
+      213: -1912307878453180903
+    second: Orc Town_16
+  - first:
+      213: 4774432032119081275
+    second: Orc Town_17
+  - first:
+      213: -5983084801085124861
+    second: Orc Town_18
+  - first:
+      213: 5564397660860521211
+    second: Orc Town_19
+  - first:
+      213: 1414945288453439885
+    second: Orc Town_20
+  - first:
+      213: 3647472030392240786
+    second: Orc Town_21
+  - first:
+      213: -3898181169449558646
+    second: Orc Town_22
+  - first:
+      213: -6920917590153417321
+    second: Orc Town_23
+  - first:
+      213: -4332721929330711421
+    second: Orc Town_24
+  - first:
+      213: -2264143035728334943
+    second: Orc Town_25
+  - first:
+      213: 4997188966739949918
+    second: Orc Town_26
+  - first:
+      213: -6371695783291100089
+    second: Orc Town_27
+  - first:
+      213: -7653768699432166890
+    second: Orc Town_28
+  - first:
+      213: -440805154916608908
+    second: Orc Town_29
+  - first:
+      213: 887252660812137002
+    second: Orc Town_30
+  - first:
+      213: -1458138603357042208
+    second: Orc Town_31
+  - first:
+      213: -1345961397306452767
+    second: Orc Town_32
+  - first:
+      213: -827618749081143544
+    second: Orc Town_33
+  - first:
+      213: -2538515410102498111
+    second: Orc Town_34
+  - first:
+      213: -8122776384866924646
+    second: Orc Town_35
+  - first:
+      213: -1153468804401864079
+    second: Orc Town_36
+  - first:
+      213: 5588618565272030174
+    second: Orc Town_37
+  - first:
+      213: -7346920258951878644
+    second: Orc Town_38
+  - first:
+      213: 3671449518830638906
+    second: Orc Town_39
+  - first:
+      213: 7896400210378781770
+    second: Orc Town_40
+  - first:
+      213: -9190251630109208268
+    second: Orc Town_41
+  - first:
+      213: 1718305984768065516
+    second: Orc Town_42
+  - first:
+      213: -6551388548377724127
+    second: Orc Town_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc Town_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 546
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d11f55d31d6b5d30800000000000000
+      internalID: 4421247391145857489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 548
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a02de90f43cb00800000000000000
+      internalID: 847608058927423758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 543
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2056fe7b06cf33850800000000000000
+      internalID: 6355700991482881282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 542
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a859f5a2a1a33440800000000000000
+      internalID: 4914449338332698792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 453
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2367f2cc013f60800000000000000
+      internalID: 8012199243582484074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 449
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53968672023faf0800000000000000
+      internalID: -363911791259339345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 450
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d89f79087039d250800000000000000
+      internalID: 5969856073169869015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 444
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3168f850cccc030800000000000000
+      internalID: 3516409733324346295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 444
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953146644d641cf70800000000000000
+      internalID: 9205716990849979225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 444
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e66ed70dbcafb280800000000000000
+      internalID: -9025305200346372381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 347
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1372af35a571070800000000000000
+      internalID: 8077023773437932017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 346
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0faf9e5ca4731b90800000000000000
+      internalID: -7272340689602498803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 346
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e999b694cdd59f0800000000000000
+      internalID: -477983777535451510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5606e12a6fc7e18e0800000000000000
+      internalID: -1720800608885251995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 368
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998a4ea612a782480800000000000000
+      internalID: -8923748377688758119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 353
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254e252196c41ed30800000000000000
+      internalID: 4458929120236201042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 251
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9160e9bcd1e1675e0800000000000000
+      internalID: -1912307878453180903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 245
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3944be13a0324240800000000000000
+      internalID: 4774432032119081275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 259
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f484ab210d7fca0800000000000000
+      internalID: -5983084801085124861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 249
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa1b9ce036b83d40800000000000000
+      internalID: 5564397660860521211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 245
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8141ee3e35e2a310800000000000000
+      internalID: 1414945288453439885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 245
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac3bb8c7c6e9230800000000000000
+      internalID: 3647472030392240786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 162
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d97dc31e0e6e9c0800000000000000
+      internalID: -3898181169449558646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d272fce16f3ff90800000000000000
+      internalID: -6920917590153417321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 147
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384a2bb6c541fd3c0800000000000000
+      internalID: -4332721929330711421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 147
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afecbaa7e52490e0800000000000000
+      internalID: -2264143035728334943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 150
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59390693e4995540800000000000000
+      internalID: 4997188966739949918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_27
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 198
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744641c91703397a0800000000000000
+      internalID: -6371695783291100089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_28
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 150
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a97555be958c590800000000000000
+      internalID: -7653768699432166890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_29
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 198
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474d80e0c02f1e9f0800000000000000
+      internalID: -440805154916608908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 169
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a224ab91897205c00800000000000000
+      internalID: 887252660812137002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 147
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98e917aa6a3cbe0800000000000000
+      internalID: -1458138603357042208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e419288d3f225de0800000000000000
+      internalID: -1345961397306452767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 25
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807b093f125b384f0800000000000000
+      internalID: -827618749081143544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 100
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc4cf32fa165ccd0800000000000000
+      internalID: -2538515410102498111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_35
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 82
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97431e0ae9164f80800000000000000
+      internalID: -8122776384866924646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 83
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172e126db3e0effe0800000000000000
+      internalID: -1153468804401864079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb4130b9f2ce8d40800000000000000
+      internalID: 5588618565272030174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 17
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c086d0c33fe7a0a90800000000000000
+      internalID: -7346920258951878644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ddac92eb93f230800000000000000
+      internalID: 3671449518830638906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_40
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 17
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4472f78726a59d60800000000000000
+      internalID: 7896400210378781770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_41
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 27
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431d2ee95daa57080800000000000000
+      internalID: -9190251630109208268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_42
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 17
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef378d6036a8d710800000000000000
+      internalID: 1718305984768065516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Town_43
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 17
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b326473dac415a0800000000000000
+      internalID: -6551388548377724127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

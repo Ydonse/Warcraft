@@ -1,0 +1,1886 @@
+fileFormatVersion: 2
+guid: e23862c9d8971aa4bbc52ab624a5c309
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8774543030657898793
+    second: Footman_0
+  - first:
+      213: 7646012639533352871
+    second: Footman_1
+  - first:
+      213: -920537370174621607
+    second: Footman_2
+  - first:
+      213: -6636599558427829051
+    second: Footman_3
+  - first:
+      213: -1623733986296450111
+    second: Footman_4
+  - first:
+      213: 2294607067585569492
+    second: Footman_5
+  - first:
+      213: -3998357049721843982
+    second: Footman_6
+  - first:
+      213: 1582738524014988582
+    second: Footman_7
+  - first:
+      213: -7434416920504687289
+    second: Footman_8
+  - first:
+      213: 5408476445432348754
+    second: Footman_9
+  - first:
+      213: -5710799003876210448
+    second: Footman_10
+  - first:
+      213: 2955497290383059285
+    second: Footman_11
+  - first:
+      213: 3404867455148862221
+    second: Footman_12
+  - first:
+      213: -2204085223210975289
+    second: Footman_13
+  - first:
+      213: -5151024043193802187
+    second: Footman_14
+  - first:
+      213: -2421876455915912480
+    second: Footman_15
+  - first:
+      213: -1530252578586898383
+    second: Footman_16
+  - first:
+      213: -9214009674846292576
+    second: Footman_17
+  - first:
+      213: 4703053379319332997
+    second: Footman_18
+  - first:
+      213: -5575187236488219241
+    second: Footman_19
+  - first:
+      213: -467092247338148734
+    second: Footman_20
+  - first:
+      213: -7124287549671673202
+    second: Footman_21
+  - first:
+      213: 2686130332485079496
+    second: Footman_22
+  - first:
+      213: -4731853166437604103
+    second: Footman_23
+  - first:
+      213: -1511363304607165659
+    second: Footman_24
+  - first:
+      213: 6478035127804808046
+    second: Footman_25
+  - first:
+      213: 596686835043872988
+    second: Footman_26
+  - first:
+      213: -1503318885886672988
+    second: Footman_27
+  - first:
+      213: 4649159247213529527
+    second: Footman_28
+  - first:
+      213: -8141512485020798014
+    second: Footman_29
+  - first:
+      213: -4129586494392153277
+    second: Footman_30
+  - first:
+      213: 5917791155979867045
+    second: Footman_31
+  - first:
+      213: 1289558988926425142
+    second: Footman_32
+  - first:
+      213: 4690002977841813825
+    second: Footman_33
+  - first:
+      213: 7062406135786027029
+    second: Footman_34
+  - first:
+      213: 4716761029722840603
+    second: Footman_35
+  - first:
+      213: 6649495591285932944
+    second: Footman_36
+  - first:
+      213: 5513376602657733093
+    second: Footman_37
+  - first:
+      213: 8402686145875002604
+    second: Footman_38
+  - first:
+      213: -3990007149671371149
+    second: Footman_39
+  - first:
+      213: -2079816495840325930
+    second: Footman_40
+  - first:
+      213: 6203583591585990941
+    second: Footman_41
+  - first:
+      213: 1310966099183292801
+    second: Footman_42
+  - first:
+      213: 2575380799774484438
+    second: Footman_43
+  - first:
+      213: 7875181705520834729
+    second: Footman_44
+  - first:
+      213: -7877305345143760382
+    second: Footman_45
+  - first:
+      213: -5713849152234201126
+    second: Footman_46
+  - first:
+      213: -4149582369625093787
+    second: Footman_47
+  - first:
+      213: -4198964947364589696
+    second: Footman_48
+  - first:
+      213: -6830175619734661262
+    second: Footman_49
+  - first:
+      213: -4591620191332742544
+    second: Footman_50
+  - first:
+      213: -5819098892620163934
+    second: Footman_51
+  - first:
+      213: 1476897910765427951
+    second: Footman_52
+  - first:
+      213: 1210321195187697950
+    second: Footman_53
+  - first:
+      213: -6565772151970558031
+    second: Footman_54
+  - first:
+      213: -3458393160731432201
+    second: Footman_55
+  - first:
+      213: -206660595321839532
+    second: Footman_56
+  - first:
+      213: 7178565338019453393
+    second: Footman_57
+  - first:
+      213: -1692149042999913269
+    second: Footman_58
+  - first:
+      213: -605035809824293646
+    second: Footman_59
+  - first:
+      213: 976906539492049554
+    second: Footman_60
+  - first:
+      213: 3723930067311855782
+    second: Footman_61
+  - first:
+      213: -7487989239894148378
+    second: Footman_62
+  - first:
+      213: -4550682326325542559
+    second: Footman_63
+  - first:
+      213: -6142558336455476660
+    second: Footman_64
+  - first:
+      213: 4990188210589377439
+    second: Footman_65
+  - first:
+      213: 2898492254475024307
+    second: Footman_66
+  - first:
+      213: 7773387284609785024
+    second: Footman_67
+  - first:
+      213: 3952921361801944904
+    second: Footman_68
+  - first:
+      213: 7043661342113425134
+    second: Footman_69
+  - first:
+      213: -2216401839534820255
+    second: Footman_70
+  - first:
+      213: -8557946812637277004
+    second: Footman_71
+  - first:
+      213: -8842613008586073094
+    second: Footman_72
+  - first:
+      213: 3429559665153632643
+    second: Footman_73
+  - first:
+      213: -838085621228319229
+    second: Footman_74
+  - first:
+      213: -6659115494213606060
+    second: Footman_75
+  - first:
+      213: -5776455215368356405
+    second: Footman_76
+  - first:
+      213: -7552408034889484075
+    second: Footman_77
+  - first:
+      213: -6633840314449766630
+    second: Footman_78
+  - first:
+      213: 1370168644608275685
+    second: Footman_79
+  - first:
+      213: 2947976153128175080
+    second: Footman_80
+  - first:
+      213: 7972242385782935529
+    second: Footman_81
+  - first:
+      213: -706426548275597654
+    second: Footman_82
+  - first:
+      213: 4403726619920643885
+    second: Footman_83
+  - first:
+      213: -7002259087899106053
+    second: Footman_84
+  - first:
+      213: -2127002963273266302
+    second: Footman_85
+  - first:
+      213: 329463790948929356
+    second: Footman_86
+  - first:
+      213: 8076072306763179751
+    second: Footman_87
+  - first:
+      213: 4009019510653268964
+    second: Footman_88
+  - first:
+      213: -8278547338975731570
+    second: Footman_89
+  - first:
+      213: -3675389373666583642
+    second: Footman_90
+  - first:
+      213: 6662857033223057003
+    second: Footman_91
+  - first:
+      213: -6455834009747070355
+    second: Footman_92
+  - first:
+      213: 3408838811712448788
+    second: Footman_93
+  - first:
+      213: 5914547995879504323
+    second: Footman_94
+  - first:
+      213: 4989965942046477614
+    second: Footman_95
+  - first:
+      213: 3151077388681179357
+    second: Footman_96
+  - first:
+      213: -7785520354458465104
+    second: Footman_97
+  - first:
+      213: -4683462489870818679
+    second: Footman_98
+  - first:
+      213: -4200013398632298836
+    second: Footman_99
+  - first:
+      213: 4715911625115436383
+    second: Footman_100
+  - first:
+      213: 4710333533096421079
+    second: Footman_101
+  - first:
+      213: -4484088796917957607
+    second: Footman_102
+  - first:
+      213: 531979474108498821
+    second: Footman_103
+  - first:
+      213: 2324625129299907078
+    second: Footman_104
+  - first:
+      213: 1545772154960673665
+    second: Footman_105
+  - first:
+      213: -2978823540526051828
+    second: Footman_106
+  - first:
+      213: -7545006185778432390
+    second: Footman_107
+  - first:
+      213: -181768379848218963
+    second: Footman_108
+  - first:
+      213: -5092441932693742118
+    second: Footman_109
+  - first:
+      213: 8187885794078634650
+    second: Footman_110
+  - first:
+      213: 7108479341459751807
+    second: Footman_111
+  - first:
+      213: 5597533973432053511
+    second: Footman_112
+  - first:
+      213: 3489962112750572230
+    second: Footman_113
+  - first:
+      213: -4941506662614631025
+    second: Footman_114
+  - first:
+      213: -7457359369615004313
+    second: Footman_115
+  - first:
+      213: -1014564043324934367
+    second: Footman_116
+  - first:
+      213: -365913186434726393
+    second: Footman_117
+  - first:
+      213: 4995934893460482928
+    second: Footman_118
+  - first:
+      213: -8275153077740002137
+    second: Footman_119
+  - first:
+      213: -4793002868556348733
+    second: Footman_120
+  - first:
+      213: 4397127210293289504
+    second: Footman_121
+  - first:
+      213: 5006898735313142131
+    second: Footman_122
+  - first:
+      213: -8295088843784693294
+    second: Footman_123
+  - first:
+      213: -9189275113657954478
+    second: Footman_124
+  - first:
+      213: -3409191585389601464
+    second: Footman_125
+  - first:
+      213: -4184945356794632344
+    second: Footman_126
+  - first:
+      213: 2108508314116519717
+    second: Footman_127
+  - first:
+      213: -28616824676129632
+    second: Footman_128
+  - first:
+      213: -6197864393252190981
+    second: Footman_129
+  - first:
+      213: -6536170086745236648
+    second: Footman_130
+  - first:
+      213: 2319719430485289980
+    second: Footman_131
+  - first:
+      213: 57751532971922333
+    second: Footman_132
+  - first:
+      213: 489036108149930696
+    second: Footman_133
+  - first:
+      213: -5625543882902140097
+    second: Footman_134
+  - first:
+      213: 8999410087076877977
+    second: Footman_135
+  - first:
+      213: -5843582450413674147
+    second: Footman_136
+  - first:
+      213: 15845093577644842
+    second: Footman_137
+  - first:
+      213: 4994067093072309616
+    second: Footman_138
+  - first:
+      213: -3677140368716798533
+    second: Footman_139
+  - first:
+      213: -4786618143942962853
+    second: Footman_140
+  - first:
+      213: -893840633008583128
+    second: Footman_141
+  - first:
+      213: -8471679886698379087
+    second: Footman_142
+  - first:
+      213: 6641901510576919335
+    second: Footman_143
+  - first:
+      213: -1163037188881076771
+    second: Footman_144
+  - first:
+      213: -5834906974354951168
+    second: Footman_145
+  - first:
+      213: -5640233054171271200
+    second: Footman_146
+  - first:
+      213: -6167188825991075334
+    second: Footman_147
+  - first:
+      213: -4959117123639374470
+    second: Footman_148
+  - first:
+      213: -2388901779549554682
+    second: Footman_149
+  - first:
+      213: 3808417911171661058
+    second: Footman_150
+  - first:
+      213: -8956915679559936501
+    second: Footman_151
+  - first:
+      213: 62397824934633569
+    second: Footman_152
+  - first:
+      213: 8716328173972596905
+    second: Footman_153
+  - first:
+      213: -5129473977794468335
+    second: Footman_154
+  - first:
+      213: -2971280062719906879
+    second: Footman_155
+  - first:
+      213: 476483889656641076
+    second: Footman_156
+  - first:
+      213: -6645897075316110937
+    second: Footman_157
+  - first:
+      213: -1230643134765599030
+    second: Footman_158
+  - first:
+      213: -118329924875987932
+    second: Footman_159
+  - first:
+      213: 2125939703557009450
+    second: Footman_160
+  - first:
+      213: -6166018440455134901
+    second: Footman_161
+  - first:
+      213: -4546109106369233144
+    second: Footman_162
+  - first:
+      213: -6139403826479992751
+    second: Footman_163
+  - first:
+      213: 3654172712459453651
+    second: Footman_164
+  - first:
+      213: 6889810699854708520
+    second: Footman_165
+  - first:
+      213: 7513457853282105699
+    second: Footman_166
+  - first:
+      213: 4815571617278329199
+    second: Footman_167
+  - first:
+      213: -4360094694644276420
+    second: Footman_168
+  - first:
+      213: -7043962543724428877
+    second: Footman_169
+  - first:
+      213: 9154664568596728098
+    second: Footman_170
+  - first:
+      213: -1540686039459378027
+    second: Footman_171
+  - first:
+      213: -731953212298546665
+    second: Footman_172
+  - first:
+      213: 4495930242943513982
+    second: Footman_173
+  - first:
+      213: -834064251120737268
+    second: Footman_174
+  - first:
+      213: 5408125304596315539
+    second: Footman_0
+  - first:
+      213: -9081996684197822510
+    second: Footman_1
+  - first:
+      213: 2585293265214161342
+    second: Footman_2
+  - first:
+      213: 1874545872552548775
+    second: Footman_3
+  - first:
+      213: -3682796373426760008
+    second: Footman_4
+  - first:
+      213: -265785794398467297
+    second: Footman_5
+  - first:
+      213: -5726932851676871540
+    second: Footman_6
+  - first:
+      213: 2507184621027790419
+    second: Footman_7
+  - first:
+      213: -7507213868734059279
+    second: Footman_8
+  - first:
+      213: -7113064643761566451
+    second: Footman_9
+  - first:
+      213: 9086994043765549338
+    second: Footman_10
+  - first:
+      213: 2644773392390088128
+    second: Footman_11
+  - first:
+      213: 4586424928632485265
+    second: Footman_12
+  - first:
+      213: -8320995756191556399
+    second: Footman_13
+  - first:
+      213: 7340461116531591624
+    second: Footman_14
+  - first:
+      213: -6112265832577879486
+    second: Footman_15
+  - first:
+      213: 8585630868700196328
+    second: Footman_16
+  - first:
+      213: 991992006675083303
+    second: Footman_17
+  - first:
+      213: 8536218100660087931
+    second: Footman_18
+  - first:
+      213: -8806156103146808758
+    second: Footman_19
+  - first:
+      213: 3150346527461498315
+    second: Footman_20
+  - first:
+      213: -6529264744661792466
+    second: Footman_21
+  - first:
+      213: 5602852767605757751
+    second: Footman_22
+  - first:
+      213: -9204177656746853846
+    second: Footman_23
+  - first:
+      213: -4372320956123901592
+    second: Footman_24
+  - first:
+      213: 2046342612295984075
+    second: Footman_25
+  - first:
+      213: 1908240921654878117
+    second: Footman_26
+  - first:
+      213: -7722520657695526169
+    second: Footman_27
+  - first:
+      213: -4736939418537075995
+    second: Footman_28
+  - first:
+      213: -2660737204916899563
+    second: Footman_29
+  - first:
+      213: 4329675106793636480
+    second: Footman_30
+  - first:
+      213: -4337938605850847901
+    second: Footman_31
+  - first:
+      213: -7845985667737616098
+    second: Footman_32
+  - first:
+      213: 1141260462991117396
+    second: Footman_33
+  - first:
+      213: -5870906635865278201
+    second: Footman_34
+  - first:
+      213: 542876044168900438
+    second: Footman_35
+  - first:
+      213: -1632603441113252841
+    second: Footman_36
+  - first:
+      213: 7212897116629497567
+    second: Footman_37
+  - first:
+      213: -1869180518643808261
+    second: Footman_38
+  - first:
+      213: -5761713190881792968
+    second: Footman_39
+  - first:
+      213: -4967306931430790999
+    second: Footman_40
+  - first:
+      213: 4415553991017674923
+    second: Footman_41
+  - first:
+      213: -1560386934346606461
+    second: Footman_42
+  - first:
+      213: 6760166179371602628
+    second: Footman_43
+  - first:
+      213: 3632956795350432480
+    second: Footman_44
+  - first:
+      213: -1316259530219802182
+    second: Footman_45
+  - first:
+      213: 1319003922608680739
+    second: Footman_46
+  - first:
+      213: -4759249230411793976
+    second: Footman_47
+  - first:
+      213: 9041277820467130444
+    second: Footman_48
+  - first:
+      213: -7102503261316006039
+    second: Footman_49
+  - first:
+      213: -2312003421009086176
+    second: Footman_50
+  - first:
+      213: -4881687384021693889
+    second: Footman_51
+  - first:
+      213: -6342570767340455265
+    second: Footman_52
+  - first:
+      213: -3670490113749703916
+    second: Footman_53
+  - first:
+      213: -8221467065301164535
+    second: Footman_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Footman_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 574
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db341af458d0b40800000000000000
+      internalID: 5408125304596315539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 575
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dffc1b522446f180800000000000000
+      internalID: -9081996684197822510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 575
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1cc49f68ec0e320800000000000000
+      internalID: 2585293265214161342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 576
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a95ba01a89b30a10800000000000000
+      internalID: 1874545872552548775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 566
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61dcde53414ecc0800000000000000
+      internalID: -3682796373426760008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 510
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc88a6a3dbf4cf0800000000000000
+      internalID: -265785794398467297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 518
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84094bf9e8d580b0800000000000000
+      internalID: -5726932851676871540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 514
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e0fa2112f4bc220800000000000000
+      internalID: 2507184621027790419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 510
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc6835e2c401d790800000000000000
+      internalID: -7507213868734059279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 510
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8334a461594d90800000000000000
+      internalID: -7113064643761566451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 456
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196cb610fc7b1e70800000000000000
+      internalID: 9086994043765549338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 461
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e0d4436f14b420800000000000000
+      internalID: 2644773392390088128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 459
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b2243c2146af30800000000000000
+      internalID: 4586424928632485265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 458
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc5bae3272e58c80800000000000000
+      internalID: -8320995756191556399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 452
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ce6a7e7e8ed560800000000000000
+      internalID: 7340461116531591624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 405
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24230740c9edc2ba0800000000000000
+      internalID: -6112265832577879486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 407
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ede08559c9462770800000000000000
+      internalID: 8585630868700196328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 412
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72035e9697344cd00800000000000000
+      internalID: 991992006675083303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 412
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7caa1fb22db67670800000000000000
+      internalID: 8536218100660087931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 404
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4adb436eaf3ac580800000000000000
+      internalID: -8806156103146808758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 357
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd5ab8b97748bb20800000000000000
+      internalID: 3150346527461498315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 360
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29c3f9ee446365a0800000000000000
+      internalID: -6529264744661792466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 364
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73794fd28e451cd40800000000000000
+      internalID: 5602852767605757751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 366
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a3400ef21344080800000000000000
+      internalID: -9204177656746853846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 353
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8611d3681456253c0800000000000000
+      internalID: -4372320956123901592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 300
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3a5ae83c1166c10800000000000000
+      internalID: 2046342612295984075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 300
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af5a19020f6b7a10800000000000000
+      internalID: 1908240921654878117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 300
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23173a06814d490800000000000000
+      internalID: -7722520657695526169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 301
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea5d8b32b2034eb0800000000000000
+      internalID: -4736939418537075995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 301
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511334cfb99231bd0800000000000000
+      internalID: -2660737204916899563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082494de198161c30800000000000000
+      internalID: 4329675106793636480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 246
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3659ec442db8cc3c0800000000000000
+      internalID: -4337938605850847901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 246
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1181b1ea957d1390800000000000000
+      internalID: -7845985667737616098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 247
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c88cc285296df00800000000000000
+      internalID: 1141260462991117396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 248
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70934c32589568ea0800000000000000
+      internalID: -5870906635865278201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa1c9c2eea88700800000000000000
+      internalID: 542876044168900438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 179
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c3d59f1d3d759e0800000000000000
+      internalID: -1632603441113252841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 179
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f32646bb591460800000000000000
+      internalID: 7212897116629497567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 176
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c72db8365f06e0800000000000000
+      internalID: -1869180518643808261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 179
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ceec731684a00b0800000000000000
+      internalID: -5761713190881792968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 122
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86bbde9a4901bb0800000000000000
+      internalID: -4967306931430790999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 123
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8ba21d5f2374d30800000000000000
+      internalID: 4415553991017674923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 123
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881c1ab954685ae0800000000000000
+      internalID: -1560386934346606461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_43
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 124
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2dd00c25fe0dd50800000000000000
+      internalID: 6760166179371602628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 104
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea343705fada6230800000000000000
+      internalID: 3632956795350432480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1b60d5ee4bbbde0800000000000000
+      internalID: -1316259530219802182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 52
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fef68441b0e4210800000000000000
+      internalID: 1319003922608680739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 49
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9f0cf5a00c3fdb0800000000000000
+      internalID: -4759249230411793976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_48
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 51
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40bf846642197d70800000000000000
+      internalID: 9041277820467130444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 57
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fb43d1ae6de6d90800000000000000
+      internalID: -7102503261316006039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029f34b532d1aefd0800000000000000
+      internalID: -2312003421009086176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Footman_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 6
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a81e24033c04cb0800000000000000
+      internalID: -4881687384021693889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
